@@ -32,7 +32,7 @@ social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # hackerrank: cono_dipaola
+  hackerrank: cono_dipaola
   # instagram: your_username
   # keybase: your_username
   linkedin: conodipaola
@@ -46,12 +46,14 @@ social_media:
   # website: http://your_website_url
   # youtube: your_username
 
- # topics:
- #  - name: CSS
- #   web_url: https://github.com/topics/css
- #   image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+ topics:
+   - name: CSS
+    web_url: https://github.com/topics/css
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
- #  - name: Web design
+   - name: React
+     web_url: https://github.com/topics/react
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
 
  #  - name: Sass
  #   web_url: https://github.com/topics/sass
