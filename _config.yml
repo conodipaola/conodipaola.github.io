@@ -51,13 +51,21 @@ topics:
      web_url: https://github.com/topics/css
      image_url: https://github.com/conodipaola/auxiliary_repo/blob/master/logos/css3.png
 
-   - name: React
+   - name: ReactJS
      web_url: https://github.com/topics/react
      image_url: https://github.com/conodipaola/auxiliary_repo/blob/master/logos/react.png
 
    - name: Javascript
      web_url: https://github.com/topics/javascript
      image_url: https://github.com/conodipaola/auxiliary_repo/blob/master/logos/javascript.png
+
+   - name: HTML
+     web_url: https://github.com/topics/html
+     image_url: https://github.com/conodipaola/auxiliary_repo/blob/master/logos/html5.png
+
+   - name: HTML
+     web_url: https://github.com/topics/unreal-engine-4
+     image_url: https://github.com/conodipaola/auxiliary_repo/blob/master/logos/unreal4.png
 
  #  - name: Sass
  #   web_url: https://github.com/topics/sass
