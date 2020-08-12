@@ -49,15 +49,15 @@ social_media:
 topics:
    - name: CSS
      web_url: https://github.com/topics/css
-     image_url: https://github.com/conodipaola/auxiliary_repo/tree/master/logos/css3.png
+     image_url: https://github.com/conodipaola/auxiliary_repo/blob/master/logos/css3.png
 
    - name: React
      web_url: https://github.com/topics/react
-     image_url: https://github.com/conodipaola/auxiliary_repo/tree/master/logos/react.png
+     image_url: https://github.com/conodipaola/auxiliary_repo/blob/master/logos/react.png
 
    - name: Javascript
      web_url: https://github.com/topics/javascript
-     image_url: https://github.com/conodipaola/auxiliary_repo/tree/master/logos/javascript.png
+     image_url: https://github.com/conodipaola/auxiliary_repo/blob/master/logos/javascript.png
 
  #  - name: Sass
  #   web_url: https://github.com/topics/sass
